@@ -21,4 +21,4 @@ https://github.com/pluwen/china-domain-allowlist/raw/main/allow-list.sorl
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=pluwen/china-domain-allowlist&type=Date)](https://star-history.com/#pluwen/china-domain-allowlist&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=pluwen/china-domain-allowlist&type=Date)](https://star-history.dera.page/#pluwen/china-domain-allowlist&Date)
